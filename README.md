@@ -4,7 +4,7 @@
 ### Be Ultra
 ### 🧑‍💻🇮🇳 
 
-<img align="right" width="300" height="300" src="">
+
 Welcome to my Repository of my GitHub Repositories which hosts many <b>✨ special ✨ repositories</b> 
 which are easy to understand and use!
 
