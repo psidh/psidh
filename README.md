@@ -1,9 +1,9 @@
-#### Hi 👋 I am
+### WELCOME
 # Manas Malla ! 
 
 ### Being a Force for Change
 ### 🧑‍💻👨‍🎓🦚 
-<b>Life</b> is too <b>short and beautiful </b>!\
+<b></b> is too <b>short and beautiful </b>!\
 <b>Keep making miracles</b> and let’s <b>enjoy what life throws at us</b>, the lows and the highs with the same <b>enthusiastic spirit and a bright smile 😃</b> ! \
 May God protect us.
 Let’s all be content together as our content lies in our family, <b>#VasudaivaKutumbam 🦚 🐚☀.</b>
