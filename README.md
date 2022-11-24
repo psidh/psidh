@@ -1,5 +1,5 @@
 ### Hello!
-# This P SIDHARTH 
+# This is P SIDHARTH 
 # Student | Programmer in Python | CSS | HTML
 ### Be Ultra
 ### 🧑‍💻🇮🇳 
@@ -7,7 +7,7 @@
 Welcome to my Repository of my GitHub Profile
 which are easy to understand and use!
 
-# THE NAMES OF THE REPOSITORIES ARE AS FOLLOWS
+# THE NAMES OF THE REPOSITORIES FOLLOWS THE BELOW CRITERION
   - The first number denotes the serial number of the program recently published
   - The first letter denotes the majority language used in the program
   - The number after that denotes the serial number of the program written in that particular language
