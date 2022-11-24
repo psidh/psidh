@@ -5,7 +5,7 @@
 ### 🧑‍💻🇮🇳 
 
 
-Welcome to my Repository of my GitHub Repositories which hosts many <b>✨ special ✨ repositories</b> 
+Welcome to my Repository of my GitHub Profile
 which are easy to understand and use!
 
 <img align="right" width="300" height="300" src="1663406460220.jpeg">
