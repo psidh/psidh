@@ -12,11 +12,8 @@ Let our lives be full of <b>divine energy</b>.
 May we feel no <b>enmity</b> or jealousy towards others. \
 <b>Let there be peace. ✌️!✌️! </b>
 
-#### 🥳  WWDC20 Swift Student Challenge Winner 🎉
-
-A <b>shout out</b> 🗣📣 to my <b>rolemodel-inspiration-mentor</b>-.......∞ whom i aspire to become, my very own maternal uncle, <b> **[@villuriram](https://github.com/villuriram)**</b>!
 #
-<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/ManasMalla/ManasMalla/master/Hello%20Manas%20Malla.png">
+<img align="right" width="300" height="300" src="">
 Welcome to my Repository of my GitHub Repositories which hosts many <b>✨ special ✨ repositories</b> 
 
 which are easy to understand and use!
@@ -27,4 +24,4 @@ which are easy to understand and use!
   - Twitter - https://twitter.com/manas_malla_ 
   - Website 🌐 - https://manasmalla.github.io 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasmalla&hide=asp&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
