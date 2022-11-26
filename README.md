@@ -4,7 +4,7 @@
 ### Be Ultra
 ### 🧑‍💻🇮🇳 
 
-Welcome to my Repository of my GitHub Profile
+Welcome to my GitHub Profile
 which are easy to understand and use!
 
 # THE NAMES OF THE REPOSITORIES FOLLOW THE BELOW CRITERION
