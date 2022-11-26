@@ -4,8 +4,7 @@
 ### Be Ultra
 ### 🧑‍💻🇮🇳 
 
-Welcome to my GitHub Profile
-which are easy to understand and use!
+# Welcome to my GitHub Profile
 
 # THE NAMES OF THE REPOSITORIES FOLLOW THE BELOW CRITERION
   - The first number denotes the serial number of the program recently published
