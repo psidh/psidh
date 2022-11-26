@@ -6,6 +6,8 @@
 
 # Welcome to my GitHub Profile
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh)
+
 # THE NAMES OF THE REPOSITORIES FOLLOW THE BELOW CRITERION
   - The first number denotes the serial number of the program recently published
   - The first letter denotes the majority language used in the program
