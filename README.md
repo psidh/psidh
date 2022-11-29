@@ -20,7 +20,7 @@
   - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
   
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=21&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
 # HOW DO I NAME MY REPOSITORIES
