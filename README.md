@@ -27,7 +27,7 @@
   - The first number denotes the serial number of the program recently published
   - The first letter denotes the majority language used in the program
   - The number after that denotes the serial number of the program written in that particular language
-  - After that the title of the project is reflected
+  - After that the title of the project is reflected.
   
   # My Language Codes
   
