@@ -23,13 +23,13 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=10&border_radius=32&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
-# THE NAMES OF THE REPOSITORIES FOLLOW THE BELOW CRITERION
+# HOW DO I NAME MY REPOSITORIES
   - The first number denotes the serial number of the program recently published
   - The first letter denotes the majority language used in the program
   - The number after that denotes the serial number of the program written in that particular language
   - After that the title of the project is reflected
   
-  # Language Codes
+  # My Language Codes
   
     • JavaScript - JS
     • Java       - JA
