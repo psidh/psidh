@@ -1,6 +1,6 @@
 ### Hello!
 # This is P SIDHARTH 
-# Student | Programmer in Python | CSS | HTML
+# Student | Programmer in Python | JS | C
 ### Be Ultra
 ### 🧑‍💻🇮🇳 
 
