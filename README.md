@@ -23,33 +23,4 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=33&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
-# HOW DO I NAME MY REPOSITORIES
-  - The first number denotes the serial number of the program recently published
-  - The first letter denotes the majority language used in the program
-  - The number after that denotes the serial number of the program written in that particular language
-  - After that the title of the project is reflected.
-  
-  # My Language Codes
-  
-    • JavaScript - JS
-    • Java       - JA
-    • Python     - P
-    • C          - C
-    • C++        - CP
-    • C#         - CH
-    • Dart       - D
-    • Kotlin     - K
-    • HTML       - H
-    • CSS        - CS
-    • React      - RC
-    • Rust       - RS
-    • Ruby       - RY
-    
-  
-  # EXAMPLE
-    - 1-P2-ANIMAL
-  
-      1 DENOTES 1ST PROGRAM IN THE WHOLE REPOSITORY
-      P DENOTES THE PROGRAM IS WRITTEN IN PYTHON
-      2 DENOTES THAT THIS IS THE SECOND PROGRAM WRITTEN IN PYTHON WHICH EXISTS IN THIS REPOSITORY
-      ANIMAL IS THE NAME OF THE REPOSITORY
+
