@@ -22,7 +22,7 @@
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b501250?trk=profile-badge">P SIDHARTH</a></div>
               
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=33&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
 
