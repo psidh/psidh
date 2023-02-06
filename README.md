@@ -20,7 +20,8 @@
   - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
   
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b501250?trk=profile-badge">P SIDHARTH</a></div>
-              
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=psidh&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" />
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
