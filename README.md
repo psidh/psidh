@@ -7,6 +7,18 @@
 # Welcome to my GitHub Profile
 
 
+
+<!--  -->
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&count_private=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/psidh/)
+<!-- [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=psidh&v=2)](https://github.com/psidh) -->
+<!-- [![MY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=psidh/bf6ce576-34b5-4da7-9da1-499b30530af3&custom_title=My%20Wakatime%20Stats&layout=compact&hide=TypeScript&langs_count=4)](https://github.com/psidh) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&layout=compact&card_width=250&custom_title=Common%20Languages%20in%20repos)](https://github.com/psidh/) -->
+
+
+<!-- [![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=psidh&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/psidh/) -->
+<!-- [![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=psidh&theme=react-dark)](https://github.com/psidh) -->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psidh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 <img align="right" width="300" height="300" src="ME.png">
