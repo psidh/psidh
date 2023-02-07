@@ -68,13 +68,11 @@
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/psidh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-</details>
 
 </p>
-<img align="right" width="15%" src="./assets/pablo-42.webp" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.webp"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donspablo&theme=dracula" />
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psidh&theme=dracula" />
 <br />
-<p  align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
-<img width="100%" height="1" align="center" src="./assets/bar.gif" />
-<br />
-</p>
+
+
+
+</details>
