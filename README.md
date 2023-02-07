@@ -6,7 +6,7 @@
 
 # Welcome to my GitHub Profile
 
-
+<img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
 
 <!--  -->
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&count_private=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/psidh/)
