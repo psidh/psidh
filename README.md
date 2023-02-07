@@ -25,9 +25,7 @@
   - Khan Academy - https://www.khanacademy.org/profile/me/courses?learn=1
   - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
   
-  
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psidh&show_icons=true&locale=en&layout=compact&theme=react" alt="aaronmathew11" /> -->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
@@ -41,7 +39,7 @@
  <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
 </a>
 
-<a href="https://tailwindcss.com" target="_blank">
+<a href="https://tailwindcss.com">
  <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
 </a>
 
