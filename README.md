@@ -56,11 +56,11 @@
 
 <img align="right" width="300" height="300" src="ME.png">
 
-- Social Profiles: 
+> Social Profiles: 
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b501250?trk=profile-badge">LinkedIN</a></div>
   - Email    - philkhanasidharth14@gmail.com
   
-- Tech Profiles:
+> Tech Profiles:
   - Khan Academy - https://www.khanacademy.org/profile/me/courses?learn=1
   - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
   
