@@ -2,10 +2,16 @@
 
 <h1> Hello! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+<div align="center">
 # This is P SIDHARTH 
 # Student | Developer in Python | C | Java | Javascript | HTML CSS |
 ## #Be_Ultra
 ## 🧑‍💻🇮🇳 
+
+# 📊GitHub Stats :
+<!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=dracula&hide_border=true)](https://github.com/CodeWhiteWeb?tab=repositories) -->
+[![Code's github activity graph](https://githubraw.com/psidh/psidh/output/github-contribution-grid-snake.svg)](https://skyline.github.com/psidh)
 
 # Welcome to my GitHub Profile
 
