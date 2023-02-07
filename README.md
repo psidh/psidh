@@ -22,7 +22,7 @@
   </summary>
 <br/>
 <p  align="center">
-    <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
+    <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="https://media.tenor.com/-g-Um3DDvV0AAAAS/explosion.gif" />
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
 <br/>
