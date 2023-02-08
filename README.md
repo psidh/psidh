@@ -7,8 +7,7 @@
 # This is P SIDHARTH 
 # Student | Developer in Python | C | Java | Javascript | HTML CSS |
   
-## #Be_Ultra
-## 🧑‍💻🇮🇳 
+## #Be_Ultra 🧑‍💻🇮🇳 
   
 
 # 📊GitHub Stats :
