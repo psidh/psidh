@@ -17,8 +17,8 @@ https://user-images.githubusercontent.com/116720762/217309498-92b9852a-0a6a-4d9b
 
 
 # 📊GitHub Stats :
-<!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=dracula&hide_border=true)](https://github.com/CodeWhiteWeb?tab=repositories) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=psidh&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories) -->
 [![Code's github activity graph](https://githubraw.com/psidh/psidh/output/github-contribution-grid-snake.svg)](https://skyline.github.com/psidh)
 
 # Welcome to my GitHub Profile
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/116720762/217309498-92b9852a-0a6a-4d9b
 <details>
   <summary align="center">
       <sup><h1><b> >>> [<i>🌵 FULL PROFILE 🐫 </i>] <<< </b></h1></sup><br/>
-      <sup><b><i>To view my full profile or portfolio click here</i></b></sup><br>
+      <sup><b><i>CLICK HERE TO SEE FULL PROFILE</i></b></sup><br>
   </summary>
 <br/>
 <p  align="center">
@@ -74,14 +74,6 @@ https://user-images.githubusercontent.com/116720762/217309498-92b9852a-0a6a-4d9b
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidH&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
-<!-- <details open>
-
-  <summary>Currently listening 🎶</summary>
-  
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
-  </a>
-</details> -->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/psidh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
