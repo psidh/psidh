@@ -11,17 +11,12 @@
 ## 🧑‍💻🇮🇳 
   
 
-https://user-images.githubusercontent.com/116720762/217309498-92b9852a-0a6a-4d9b-bb6b-abf14e190f45.mov
-
-
-
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=psidh&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
 
-[![Code's github activity graph](https://githubraw.com/psidh/psidh/output/github-contribution-grid-snake.svg)](https://skyline.github.com/psidh)
+<!-- [![Code's github activity graph](https://githubraw.com/psidh/psidh/output/github-contribution-grid-snake.svg)](https://skyline.github.com/psidh) -->
 
 
 
