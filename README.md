@@ -5,7 +5,7 @@
 <div align="center">
   
 # This is P SIDHARTH 
-# Student | Developer in Python | C | Java | Javascript | HTML CSS |
+# Student | Developer in Python | HTML CSS |
   
 ## #Be_Ultra 🧑‍💻🇮🇳 
   
