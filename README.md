@@ -65,6 +65,7 @@
 > Tech Profiles:
   - Khan Academy - https://www.khanacademy.org/profile/me/courses?learn=1
   - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
+  - LeetCode - https://leetcode.com/philkhanasidharth14/
   
 
 
