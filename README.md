@@ -64,8 +64,8 @@
   
 > Tech Profiles:
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.khanacademy.org/profile/me/courses?learn=1?trk=profile-badge">Khan Academy</a></div>
-  - Hacker Rank - https://www.hackerrank.com/philkhanasidhar1
-  - LeetCode - https://leetcode.com/philkhanasidharth14/
+  - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.hackerrank.com/philkhanasidhar1?trk=profile-badge">Hacker Rank</a></div>
+  - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://leetcode.com/philkhanasidharth14?trk=profile-badge">LeetCode</a></div>
   
 
 
