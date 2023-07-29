@@ -1,7 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-<h1> Hello!</h1>
-
 <div align="center">
   
 # This is P SIDHARTH 
