@@ -5,9 +5,9 @@
 <div align="center">
   
 # This is P SIDHARTH 
-# Student | Developer in Python | JavaScript | Node.js
+## Student | Developer in Python | JavaScript | Node.js
   
-## #Be_Ultra 🧑‍💻🇮🇳 
+### #Be_Ultra 🧑‍💻🇮🇳 
   
 
 # 📊GitHub Stats :
