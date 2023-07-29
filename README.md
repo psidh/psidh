@@ -6,11 +6,8 @@
   
 # This is P SIDHARTH 
 ## Student | Developer
-  
-#Be_Ultra 🧑‍💻🇮🇳 
 
-
-## **Tech Stack**
+# **Tech Stack**
 
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/psidh/psidh/blob/master/nextjs-icon-svgrepo-com.svg" alt="Next.js" width="55px" height="55px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
