@@ -34,15 +34,8 @@
       <sup><h1><b> >>> [<i>FULL PROFILE </i>] <<< </b></h1></sup><br/>
       <sup><b><i>CLICK HERE</i></b></sup><br>
   </summary>
-<br/>
-<p  align="center">
-    <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="https://media.tenor.com/-g-Um3DDvV0AAAAS/explosion.gif" />
-    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
-</p>
-<br/>
-<p align="center">
-    <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
-</p>
+
+
 <br/>
 <p  align="center">
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
