@@ -37,26 +37,12 @@
 </div>
 
 
-  
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=psidh&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
-
-<!-- [![Code's github activity graph](https://githubraw.com/psidh/psidh/output/github-contribution-grid-snake.svg)](https://skyline.github.com/psidh) -->
-
-
 
  </div>
   
 <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
-
-<!--  
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&count_private=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/psidh/)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psidh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89552D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5) -->
 
 <details>
   <summary align="center">
