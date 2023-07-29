@@ -31,8 +31,8 @@
 
 <details>
   <summary align="center">
-      <sup><h1><b> >>> [<i>🌵 FULL PROFILE 🐫 </i>] <<< </b></h1></sup><br/>
-      <sup><b><i>CLICK HERE TO SEE FULL PROFILE</i></b></sup><br>
+      <sup><h1><b> >>> [<i>FULL PROFILE </i>] <<< </b></h1></sup><br/>
+      <sup><b><i>CLICK HERE</i></b></sup><br>
   </summary>
 <br/>
 <p  align="center">
@@ -66,12 +66,6 @@
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
-
-
-
-</p>
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psidh&theme=dracula" />
-<br />
 
 
 </details>
