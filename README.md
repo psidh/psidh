@@ -54,10 +54,6 @@
 
 <br />
 
-
-
-<img align="right" width="300" height="300" src="ME.png">
-
 > Social Profiles: 
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b501250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b501250?trk=profile-badge">LinkedIN</a></div>
   - Email    - philkhanasidharth14@gmail.com
@@ -72,14 +68,10 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/psidh?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 
 </p>
 <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psidh&theme=dracula" />
 <br />
 
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </details>
