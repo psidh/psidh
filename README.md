@@ -1,16 +1,16 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1> Hello! <img src="https://emojis.slackmojis.com/emojis/images/1577305555/7373/hand_wave.gif?1577305555" width="55" /> What's up?</h1>
+<h1> Hello!</h1>
 
 <div align="center">
   
 # This is P SIDHARTH 
-## Student | Developer in Python | JavaScript | Node.js
+## Student | Developer
   
 #Be_Ultra 🧑‍💻🇮🇳 
 </div>
 
-**Tech Stack**
+### **Tech Stack**
 
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="55px" height="55px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
