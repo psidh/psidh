@@ -7,6 +7,7 @@
 # **Tech Stack**
 
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/psidh/psidh/blob/master/nextjs-icon-svgrepo-com.svg" alt="Next.js" width="55px" height="55px"></a> 
+
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="55px" height="55px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="55px" height="55px"></a>
