@@ -6,7 +6,7 @@
 
 # **Tech Stack**
 
-<img src="../SVGs/nextjs-icon-svgrepo-com.svg" alt="Next.js" width="55px" height="55px"></a> 
+<img src="..SVGs/nextjs-icon-svgrepo-com.svg" alt="Next.js" width="55px" height="55px"></a> 
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
 
