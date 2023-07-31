@@ -6,7 +6,7 @@
 
 # **Tech Stack**
 
-<img src="..images/nextjs-boilerplate-logo.png" alt="Next.js" width="55px" height="55px"></a> 
+<img src="https://github.com/psidh/psidh/blob/master/images/nextjs-boilerplate-logo.png?sanitize=true" alt="Next.js" width="55px" height="55px"></a> 
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
 
