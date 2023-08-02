@@ -31,33 +31,14 @@
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="55px" height="55px"></a>
 
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
 
- </div>
-</div>
-  
 <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
 
-<details>
-  <summary align="center">
-      <sup><h1><b> >>> [<i>FULL PROFILE </i>] <<< </b></h1></sup><br/>
-      <sup><b><i>CLICK HERE</i></b></sup><br>
-  </summary>
 
-
-<br/>
-<p  align="center">
-    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
-</p>
-
-<br />
-
-<p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="title" width="200" src="https://profile-counter.glitch.me/psidh/count.svg" /></p>
-
-<br />
 
 > Social Profiles: 
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b551255?trk=profile-badge">LinkedIN</a></div>
@@ -70,7 +51,8 @@
   
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=11&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
+ </div>
+</div>
+  
 
 
-</details>
