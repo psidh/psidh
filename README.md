@@ -29,15 +29,15 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="55px" height="55px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="55px" height="55px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="55px" height="55px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="55px" height="55px"></a>
 
-</div>
+
 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
 
  </div>
+</div>
   
 <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
 
