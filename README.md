@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <div align="center">
   
-# Hi! I am P SIDHARTH 
+# नमस्ते | Hi 🙏🏼 I am P SIDHARTH 
 # Student | Developer
 
 ## **Tech Stack**
