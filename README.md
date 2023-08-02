@@ -38,11 +38,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
 
 
-
-<img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
-
-
-
 > Social Profiles: 
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b551255?trk=profile-badge">LinkedIN</a></div>
   - Email    - philkhanasidharth14@gmail.com
