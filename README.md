@@ -36,6 +36,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
 
+ </div>
+
 <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> 
 
 
@@ -51,7 +53,7 @@
   
 
 
- </div>
+
 </div>
   
 
