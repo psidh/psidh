@@ -40,7 +40,8 @@
 
 > Social Profiles: 
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/p-sidharth-08b551255?trk=profile-badge">LinkedIN</a></div>
-  - Email    - philkhanasidharth14@gmail.com
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="mailto:philkhanasidharth14@gmail.com">Emaik</a></div>
+  
   
 > Tech Profiles:
   - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="p-sidharth-08b551255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.khanacademy.org/profile/me/courses?learn=1?trk=profile-badge">Khan Academy</a></div>
