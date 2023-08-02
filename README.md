@@ -1,10 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <div align="center">
   
-# This is P SIDHARTH 
-## Student | Developer
+# Hi! I am P SIDHARTH 
+# Student | Developer
 
-# **Tech Stack**
+## **Tech Stack**
 
 <img src="https://github.com/psidh/psidh/blob/master/images/nextjs-boilerplate-logo.png?sanitize=true" alt="Next.js" width="55px" height="55px"></a> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
