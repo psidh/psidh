@@ -2,6 +2,7 @@
 <div align="center">
   
 # नमस्ते | Hi 🙏🏼 I am P SIDHARTH 
+# ॐ 
 # Student | Developer
 
 ## **Tech Stack**
