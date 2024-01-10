@@ -4,7 +4,6 @@
 
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 # Student | Developer
-<br>
 <div align="left">
   
   ## Web Dev
