@@ -2,12 +2,9 @@
 <div align="left">
 
 
-## ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
-## Student | Developer
-
+# ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
+# Student | Developer
 <br>
-<br>
-
 <div align="left">
   
   ## Web Dev
