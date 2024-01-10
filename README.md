@@ -2,10 +2,8 @@
 <div align="left">
   
 # ॐ 
-# नमस्ते | Hi 🙏🏼 I am P SIDHARTH 
+# नमस्ते 🙏🏼 I'm Philkhana Sidharth
 # Student | Developer
-
-## **Tech Stack**
 
 <div align="left">
   
