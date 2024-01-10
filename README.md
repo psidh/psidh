@@ -1,9 +1,17 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <div align="left">
+
+<div style="display: flex;">
+  <div>
+    ॐ 
+    नमस्ते 🙏🏼 I'm Philkhana Sidharth
+    Student | Developer
+  </div>
   
-# ॐ 
-# नमस्ते 🙏🏼 I'm Philkhana Sidharth
-# Student | Developer
+  <img src="https://psidh.vercel.app/_next/image?url=%2Fme.png&w=640&q=75" alt="Philkhana Sidharth" width="55px" height="55px">
+  
+</div>
+
 
 <div align="left">
   
