@@ -10,8 +10,9 @@
   <div>
   
   <img src="https://github.com/psidh/psidh/blob/master/images/nextjs-boilerplate-logo.png?sanitize=true" alt="Next.js" width="55px" height="55px"></a> 
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="55px" height="55px"></a>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="React" width="55px" height="55px"></a>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="55px" height="55px"></a>
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="55px" height="55px"></a>
   <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="55px" height="55px"></a>
   <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="55px" height="55px"></a>
