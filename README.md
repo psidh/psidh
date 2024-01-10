@@ -38,7 +38,7 @@
   <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="55px" height="55px"></a>
   </div>
 
-  ### Databases
+  ## Databases
 
   <div>
     
@@ -48,7 +48,7 @@
   </div>
   
 
-  ### Tools
+  ## Tools
 
   <div>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="55px" height="55px"></a>
