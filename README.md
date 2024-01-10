@@ -46,7 +46,6 @@
   <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="55px" height="55px"></a>
 
   </div>
-  
 
   ## Tools
 
@@ -54,14 +53,10 @@
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="55px" height="55px"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Git" width="55px" height="55px">
   </div>
-
-
-
 </div>
 
 
-
-
+<br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=8&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
