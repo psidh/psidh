@@ -1,5 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-<div align="center">
+<div align="left">
   
 # ॐ 
 # नमस्ते | Hi 🙏🏼 I am P SIDHARTH 
@@ -9,7 +9,7 @@
 
 <div align="left">
   
-  ### Web Dev
+  ## Web Dev
   <div>
   
   <img src="https://github.com/psidh/psidh/blob/master/images/nextjs-boilerplate-logo.png?sanitize=true" alt="Next.js" width="55px" height="55px"></a> 
@@ -22,25 +22,40 @@
 
   </div>
 
-  ### App Dev
+  ## App Dev
+
+  <div>
   <a href="https://git-scm.com/" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="55px" height="55px"></a>
   <a href="https://git-scm.com/" title="Dart"><img src="https://github.com/get-icon/geticon/raw/master/icons/dart.svg" alt="Dart" width="55px" height="55px"></a>
 
-  ### Languages
+  </div>
+
+  ## Languages
   
+  <div>
   <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="55px" height="55px"></a>
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="55px" height="55px"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="55px" height="55px"></a>
   <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="55px" height="55px"></a>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="55px" height="55px"></a>
+  </div>
 
   ### Databases
+
+  <div>
+    
   <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="55px" height="55px"></a>
   <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="55px" height="55px"></a>
 
+  </div>
+  
+
   ### Tools
+
+  <div>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="55px" height="55px"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Git" width="55px" height="55px">
+  </div>
 
 
 
