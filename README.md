@@ -60,8 +60,12 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=8&border_radius=34&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&java=ffffff)
 
+![psidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=16)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=psidh&no-frame=false&no-bg=false&margin-w=4)
 
 
  </div>
