@@ -58,9 +58,9 @@
 <br>
 <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=8&border_radius=34)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&hide=asp&langs_count=8&border_radius=10)
 
-![psidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=16)
+![psidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=10)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psidh&theme=whatsapp-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://github.com/psidh?tab=repositories)
 
