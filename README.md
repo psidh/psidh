@@ -62,7 +62,7 @@
 
 ![psidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=16)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psidh&theme=dracula&hide_border=true)](https://github.com/psidh?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psidh&theme=whatsapp-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://github.com/psidh?tab=repositories)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=psidh&no-frame=false&no-bg=false&margin-w=4)
