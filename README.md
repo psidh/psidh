@@ -3,7 +3,7 @@
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 # Student | Developer
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,react,vue,vite,flask,tailwind,postman,vercel,github,git,figma,firebase,supabase,prisma,mongodb,mysql,sqlite,selenium,java,py,ts,js,c,cpp,html,css,pycharm,idea,vscode,apple&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,react,vue,vite,flask,tailwind,postman,vercel,github,git,figma,firebase,supabase,prisma,mongodb,mysql,sqlite,selenium,java,py,ts,js,c,cpp,html,css,pycharm,idea,vscode,apple&perline=10)](https://skillicons.dev)  
 
 
 
