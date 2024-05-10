@@ -3,10 +3,10 @@
 # Student | Developer
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,mongodb,postgres,vite,express,nodejs,docker,tailwind,postman,vercel,github,html,css,git,figma,firebase,supabase,sqlite,materialui,cloudflare&perline=7)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,mongodb,postgres,vite,express,nodejs,docker,tailwind,postman,vercel,github,html,css,git,figma,firebase,supabase,sqlite,flask,materialui,cloudflare&perline=7)](https://skillicons.dev)  
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,flask,ts,js,c,cpp,rust)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,rust)](https://skillicons.dev)  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psidh&label=Profile%20views&color=000000&style=flat" alt="sayak-bhunia" /> </p>
