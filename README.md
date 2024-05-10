@@ -2,9 +2,10 @@
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 # Student | Developer
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,vite,express,nodejs,docker,tailwind,postman,vercel,github,git,figma,firebase,supabase,prisma,mongodb,postgres,sqlite,materialui)](https://skillicons.dev)  
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,mongodb,postgres,vite,express,nodejs,docker,tailwind,postman,vercel,github,git,figma,firebase,supabase,sqlite,materialui,cloudflare&perline=7)](https://skillicons.dev)  
 
-
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,flask,ts,js,c,cpp,html,css,)](https://skillicons.dev)  
 
 
