@@ -2,7 +2,7 @@
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 
 - [x]  **I write code**
-- [x]  **I build fasterr**
+- [x]  **I build fast**
 - [x]  **I love computers**
 
 ### Tech Stack
@@ -15,7 +15,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&langs_count=8&theme=dark) 
-
-![Metrics](https://gist.githubusercontent.com/psidh/17b755e901001b643d75299be4db1aa5/raw/github-metrics.svg)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
