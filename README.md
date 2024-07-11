@@ -1,9 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 
-- [x]  **I write code**
-- [x]  **I build fast**
-- [x]  **I love computers**
+## Full Stack Developer with Knowledge of Cloud and DevOps
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,postgres,mongodb,vite,express,workers,terraform,nodejs,docker,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,cloudflare,java,py,ts,js,c,cpp,rust&perline=8)](https://skillicons.dev)  
