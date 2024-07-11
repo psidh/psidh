@@ -1,7 +1,15 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 
-## Full Stack Developer with Knowledge of Cloud and DevOps
+- Founder CEO [ULTRA](https://ultra.theananta.in/)
+- Full Stack Developer with `Cloud` ☁️ and `DevOps`⚓️
+- Finalist `Smart India Hackathon 2023` | Bhopal Region
+- Google Developer Student Clubs GITAM - `Web Lead`
+- Learning Go, Kubernetes, Dynamic Programming and Angular
+- Have 4 hackathons in CP, Development
+- Working on building `Deployment Pipeline` like `Vercel`, and other `projects`
+
+
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,postgres,mongodb,vite,express,workers,terraform,nodejs,docker,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,cloudflare,java,py,ts,js,c,cpp,rust&perline=8)](https://skillicons.dev)  
