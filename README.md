@@ -5,7 +5,7 @@
 - Finalist `Smart India Hackathon 2023` | Bhopal Region
 - Google Developer Student Clubs GITAM - `Web Lead`
 - Have 4 hackathons in `CP`, `Development`
-- Working on building `Deployment Pipeline` like `Vercel`, and other `projects`
+- Working on building `DevOps Platform`
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,postgres,mongodb,vite,express,workers,terraform,nodejs,docker,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,cloudflare,java,py,ts,js,c,cpp,rust&perline=8)](https://skillicons.dev)  
 # Coming Soon (learning)... <img src="https://skillicons.dev/icons?i=angular,kubernetes,go" />
