@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 # ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
-### Founder CEO [ULTRA](https://ultra.theananta.in/)
+
 - Full Stack Developer with `Cloud` ☁️ and `DevOps`⚓️
 - Finalist `Smart India Hackathon 2023` | Bhopal Region
 - Google Developer Student Clubs GITAM - `Web Lead`
