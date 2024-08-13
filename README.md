@@ -7,8 +7,8 @@
 - Have 4 hackathons in `CP`, `Development`
 - Working on building `DevOps Platform`
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,postgres,mongodb,vite,express,workers,terraform,nodejs,docker,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,java,py,ts,js,c,&perline=8)](https://skillicons.dev)  
-# Coming Soon (learning)... <img src="https://skillicons.dev/icons?i=angular,kubernetes,go" />
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,kubernetes,docker,postgres,mongodb,vite,express,workers,terraform,nodejs,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,java,py,ts,js,c,&perline=8)](https://skillicons.dev)  
+# Coming Soon (learning)... <img src="https://skillicons.dev/icons?i=flutter,go" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psidh&label=Profile%20views&color=000000&style=flat" alt="psidh" /> </p>
 
