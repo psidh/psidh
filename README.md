@@ -6,7 +6,7 @@
 - Google Developer Student Clubs GITAM - `Web Lead` 2023 - 2024
 - Won 4x hackathon
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,kubernetes,docker,postgres,mongodb,vite,express,workers,terraform,nodejs,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask,java,py,ts,js,c,&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,kubernetes,docker,postgres,mongodb,vite,express,workers,terraform,nodejs,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,sqlite,flask&perline=8)](https://skillicons.dev)  
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,rust,c,cpp,&perline=8)](https://skillicons.dev)  
