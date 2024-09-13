@@ -15,6 +15,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&langs_count=18&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psidh&langs_count=10&theme=dark) 
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
