@@ -4,7 +4,7 @@
 - Full Stack Developer with `Cloud` ☁️ and `DevOps`⚓️
 - Finalist `Smart India Hackathon 2023` | Bhopal Region
 - Google Developer Student Clubs GITAM - `Web Lead` 2023 - 2024
-- Won 4x hackathon
+- ## Won `5x` hackathon
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws,prisma,kubernetes,docker,postgres,mongodb,vite,express,workers,terraform,nodejs,redis,grafana,prometheus,tailwind,postman,figma,firebase,supabase,java,py,ts,js,go,rust,c,cpp)](https://skillicons.dev)  
 
