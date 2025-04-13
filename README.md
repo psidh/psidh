@@ -1,4 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+![Diagram](./blue.png)
+
 ## ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
 
 - Full Stack Developer with `Cloud` ☁️ and `DevOps`⚓️
