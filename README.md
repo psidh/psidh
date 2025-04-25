@@ -1,5 +1,6 @@
 ## ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
-![Diagram](./blue.png)
+
+<!-- ![Diagram](./blue.png)  -->
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header) 
 
 
