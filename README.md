@@ -2,7 +2,7 @@
 
 <!-- ![Diagram](./blue.png)  -->
 
-- Full Stack SD `Cloud` ☁️ and `DevOps`⚓ | Finalist `Smart India Hackathon 2023`
+- Full Stack | Systems-Level | `Cloud` ☁️ and `DevOps`⚓ | Finalist `Smart India Hackathon 2023`
 - Won `5x` hackathon
 - Built my own [Programming Language - Ganges](https://github.com/psidh/Ganges)
 - Built my own [Database - Prithvi](https://github.com/psidh/Prithvi)
