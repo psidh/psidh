@@ -9,7 +9,7 @@ Finalist – *Smart India Hackathon 2023* | *5× Hackathon Winner*
 
 ### [**Akash**](https://github.com/psidh/Akash) — An L4 **Load Balancer** (Go)
 ### [**Prithvi**](https://github.com/psidh/Prithvi) — An **in-memory Database** (Java)
-### [**Ganges**](https://github.com/psidh/Ganges) — A **Programming Language** (Python)
+### [**Ganges**](https://github.com/psidh/Ganges) — A **Programming Language** (Go)
 
 ---
 
