@@ -2,7 +2,8 @@
 
 <!-- ![Diagram](./blue.png)  -->
 
-**Full Stack & Systems Engineer** | Cloud & DevOps
+**Software Engineer** | `Cloud & DevOps`
+
 Finalist – *Smart India Hackathon 2023* | *5× Hackathon Winner*
 
 ## Things I’ve Built
