@@ -1,17 +1,12 @@
-## ॐ | नमस्ते 🙏🏼 I'm Philkhana Sidharth
-
+## ॐ
 <!-- ![Diagram](./blue.png)  -->
+**Software Engineer**
 
-**Software Engineer** | `Cloud & DevOps`
+- `Full Stack` | `Systems-Level` | `Cloud` ☁️ and `DevOps`⚓ |
 
-Finalist – *Smart India Hackathon 2023* | *5× Hackathon Winner*
-
-## Things I’ve Built
-
-### [**Akash**](https://github.com/psidh/Akash) — An L4 **Load Balancer** (Go)
-### [**Prithvi**](https://github.com/psidh/Prithvi) — An **in-memory Database** (Java)
-### [**Ganges**](https://github.com/psidh/Ganges) — A **Programming Language** (Go)
-
+- Built my own [Load Balancer - Akash](https://github.com/psidh/Akash)
+- Built my own [Database - Prithvi](https://github.com/psidh/Prithvi)
+- Built my own [Programming Language - Ganges](https://github.com/psidh/Ganges)
 ---
 
 I enjoy building things from the ground up — from languages to systems to tools that scale.
