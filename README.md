@@ -4,10 +4,13 @@
 
 - `Full Stack` | `Systems-Level` | `Cloud` ☁️ and `DevOps`⚓ |
 
-- Built my own [Load Balancer - Akash](https://github.com/psidh/Akash)
-- Built my own [Database - Prithvi](https://github.com/psidh/Prithvi)
-- Built my own [Programming Language - Ganges](https://github.com/psidh/Ganges)
----
+**Built my own** 
+
+[Load Balancer - Akash](https://github.com/psidh/Akash)
+
+[Database - Prithvi](https://github.com/psidh/Prithvi)
+
+[Programming Language - Ganges](https://github.com/psidh/Ganges)
 
 I enjoy building things from the ground up — from languages to systems to tools that scale.
 
