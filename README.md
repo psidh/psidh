@@ -15,10 +15,7 @@
 [Programming Language - Ganges](https://github.com/psidh/Ganges)
 
 
-I enjoy building things from the ground up — from languages to systems to tools that scale.
-
-- `Full Stack` | `Systems-Level` | `Cloud` ☁️ and `DevOps`⚓ |
-
+I enjoy building things - mostly infra-distributed systems
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header) 
 
 
