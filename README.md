@@ -4,6 +4,8 @@
 
 **Built my own** 
 
+[Distributed in-memory cache - Helios](https://github.com/psidh/helios)
+
 [Key-Val Database - Prithvi](https://github.com/psidh/Prithvi)
 
 [Load Balancer - Akash](https://github.com/psidh/Akash)
